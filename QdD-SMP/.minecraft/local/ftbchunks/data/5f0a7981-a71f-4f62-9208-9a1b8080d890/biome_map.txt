@@ -1,0 +1,9 @@
+#34D minecraft:deep_lukewarm_ocean
+#008 minecraft:desert
+#79A minecraft:lukewarm_ocean
+#5FF minecraft:river
+#4C0 byg:sierra_badlands
+#2B7 minecraft:warm_ocean
+#6F1 byg:windswept_beach
+#467 byg:windswept_desert
+#1C9 minecraft:wooded_badlands

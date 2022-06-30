@@ -1,0 +1,14 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:getting_started/spell_mana",
+        "ars_nouveau:getting_started/spell_casting"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

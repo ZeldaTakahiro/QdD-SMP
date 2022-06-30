@@ -1,0 +1,19 @@
+{
+	id: "7b77cb5d-6342-4ad4-b53a-ec6d1ecd5566"
+	type: "player"
+	player_name: "DestroG"
+	ranks: {
+		7b77cb5d-6342-4ad4-b53a-ec6d1ecd5566: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DestroG"
+		"ftbteams:color": "#FF597B"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

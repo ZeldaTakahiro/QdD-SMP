@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "7b77cb5d63424ad4b53aec6d1ecd5566"
+	name: "DestroG"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
